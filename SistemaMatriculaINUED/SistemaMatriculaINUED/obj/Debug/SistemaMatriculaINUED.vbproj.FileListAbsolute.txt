@@ -1,0 +1,38 @@
+F:\Programación\II PARCIAL - I SEMESTRE\SistemaMatriculaINUED\SistemaMatriculaINUED\SistemaMatriculaINUED\obj\Debug\SistemaMatriculaINUED.vbproj.AssemblyReference.cache
+F:\Programación\II PARCIAL - I SEMESTRE\SistemaMatriculaINUED\SistemaMatriculaINUED\SistemaMatriculaINUED\obj\Debug\SistemaMatriculaINUED.vbproj.SuggestedBindingRedirects.cache
+F:\Programación\II PARCIAL - I SEMESTRE\SistemaMatriculaINUED\SistemaMatriculaINUED\SistemaMatriculaINUED\obj\Debug\SistemaMatriculaINUED.Form1.resources
+F:\Programación\II PARCIAL - I SEMESTRE\SistemaMatriculaINUED\SistemaMatriculaINUED\SistemaMatriculaINUED\obj\Debug\SistemaMatriculaINUED.Resources.resources
+F:\Programación\II PARCIAL - I SEMESTRE\SistemaMatriculaINUED\SistemaMatriculaINUED\SistemaMatriculaINUED\obj\Debug\SistemaMatriculaINUED.vbproj.GenerateResource.cache
+F:\Programación\II PARCIAL - I SEMESTRE\SistemaMatriculaINUED\SistemaMatriculaINUED\SistemaMatriculaINUED\obj\Debug\SistemaMatriculaINUED.vbproj.CoreCompileInputs.cache
+F:\Programación\II PARCIAL - I SEMESTRE\SistemaMatriculaINUED\SistemaMatriculaINUED\SistemaMatriculaINUED\bin\Debug\SistemaMatriculaINUED.exe.config
+F:\Programación\II PARCIAL - I SEMESTRE\SistemaMatriculaINUED\SistemaMatriculaINUED\SistemaMatriculaINUED\bin\Debug\SistemaMatriculaINUED.exe
+F:\Programación\II PARCIAL - I SEMESTRE\SistemaMatriculaINUED\SistemaMatriculaINUED\SistemaMatriculaINUED\bin\Debug\SistemaMatriculaINUED.pdb
+F:\Programación\II PARCIAL - I SEMESTRE\SistemaMatriculaINUED\SistemaMatriculaINUED\SistemaMatriculaINUED\bin\Debug\SistemaMatriculaINUED.xml
+F:\Programación\II PARCIAL - I SEMESTRE\SistemaMatriculaINUED\SistemaMatriculaINUED\SistemaMatriculaINUED\obj\Debug\SistemaMatriculaINUED.exe
+F:\Programación\II PARCIAL - I SEMESTRE\SistemaMatriculaINUED\SistemaMatriculaINUED\SistemaMatriculaINUED\obj\Debug\SistemaMatriculaINUED.xml
+F:\Programación\II PARCIAL - I SEMESTRE\SistemaMatriculaINUED\SistemaMatriculaINUED\SistemaMatriculaINUED\obj\Debug\SistemaMatriculaINUED.pdb
+D:\SistemaMatriculaINUED\SistemaMatriculaINUED\SistemaMatriculaINUED\obj\Debug\SistemaMatriculaINUED.vbproj.AssemblyReference.cache
+D:\SistemaMatriculaINUED\SistemaMatriculaINUED\SistemaMatriculaINUED\obj\Debug\SistemaMatriculaINUED.vbproj.SuggestedBindingRedirects.cache
+D:\SistemaMatriculaINUED\SistemaMatriculaINUED\SistemaMatriculaINUED\obj\Debug\SistemaMatriculaINUED.Form1.resources
+D:\SistemaMatriculaINUED\SistemaMatriculaINUED\SistemaMatriculaINUED\obj\Debug\SistemaMatriculaINUED.frmBuscar.resources
+D:\SistemaMatriculaINUED\SistemaMatriculaINUED\SistemaMatriculaINUED\obj\Debug\SistemaMatriculaINUED.Resources.resources
+D:\SistemaMatriculaINUED\SistemaMatriculaINUED\SistemaMatriculaINUED\obj\Debug\SistemaMatriculaINUED.vbproj.GenerateResource.cache
+D:\SistemaMatriculaINUED\SistemaMatriculaINUED\SistemaMatriculaINUED\obj\Debug\SistemaMatriculaINUED.vbproj.CoreCompileInputs.cache
+D:\SistemaMatriculaINUED\SistemaMatriculaINUED\SistemaMatriculaINUED\obj\Debug\SistemaMatriculaINUED.exe
+D:\SistemaMatriculaINUED\SistemaMatriculaINUED\SistemaMatriculaINUED\obj\Debug\SistemaMatriculaINUED.xml
+D:\SistemaMatriculaINUED\SistemaMatriculaINUED\SistemaMatriculaINUED\obj\Debug\SistemaMatriculaINUED.pdb
+E:\SistemaMatriculaINUED\SistemaMatriculaINUED\SistemaMatriculaINUED\obj\Debug\SistemaMatriculaINUED.vbproj.AssemblyReference.cache
+E:\SistemaMatriculaINUED\SistemaMatriculaINUED\SistemaMatriculaINUED\obj\Debug\SistemaMatriculaINUED.vbproj.SuggestedBindingRedirects.cache
+E:\SistemaMatriculaINUED\SistemaMatriculaINUED\SistemaMatriculaINUED\obj\Debug\SistemaMatriculaINUED.Form1.resources
+E:\SistemaMatriculaINUED\SistemaMatriculaINUED\SistemaMatriculaINUED\obj\Debug\SistemaMatriculaINUED.frmBuscar.resources
+E:\SistemaMatriculaINUED\SistemaMatriculaINUED\SistemaMatriculaINUED\obj\Debug\SistemaMatriculaINUED.vbproj.GenerateResource.cache
+E:\SistemaMatriculaINUED\SistemaMatriculaINUED\SistemaMatriculaINUED\obj\Debug\SistemaMatriculaINUED.exe
+E:\SistemaMatriculaINUED\SistemaMatriculaINUED\SistemaMatriculaINUED\obj\Debug\SistemaMatriculaINUED.xml
+E:\SistemaMatriculaINUED\SistemaMatriculaINUED\SistemaMatriculaINUED\obj\Debug\SistemaMatriculaINUED.pdb
+E:\SistemaMatriculaINUED\SistemaMatriculaINUED\SistemaMatriculaINUED\bin\Debug\SistemaMatriculaINUED.exe.config
+E:\SistemaMatriculaINUED\SistemaMatriculaINUED\SistemaMatriculaINUED\bin\Debug\SistemaMatriculaINUED.exe
+E:\SistemaMatriculaINUED\SistemaMatriculaINUED\SistemaMatriculaINUED\bin\Debug\SistemaMatriculaINUED.pdb
+E:\SistemaMatriculaINUED\SistemaMatriculaINUED\SistemaMatriculaINUED\bin\Debug\SistemaMatriculaINUED.xml
+E:\SistemaMatriculaINUED\SistemaMatriculaINUED\SistemaMatriculaINUED\obj\Debug\SistemaMatriculaINUED.Resources.resources
+E:\SistemaMatriculaINUED\SistemaMatriculaINUED\SistemaMatriculaINUED\obj\Debug\SistemaMatriculaINUED.vbproj.CoreCompileInputs.cache
+E:\SistemaMatriculaINUED\SistemaMatriculaINUED\SistemaMatriculaINUED\obj\Debug\SistemaMatriculaINUED.frmGrafica.resources
